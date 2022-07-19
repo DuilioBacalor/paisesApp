@@ -12,8 +12,8 @@ const routes:Routes=[
         pathMatch:'full'
     },
     {
-path:'region',
-component:PorRegionComponent
+        path:'region',
+        component:PorRegionComponent
     },
     {
         path:'capital',
